@@ -3,7 +3,7 @@ OVSPATH = OVS/
 TMPATH = TupleMerge/
 CTPATH = CutTSS/
 
-CXX = g++-16
+CXX = g++
 CXXFLAGS = -g -std=c++14 -pedantic -fpermissive -fopenmp -O3
 
 
